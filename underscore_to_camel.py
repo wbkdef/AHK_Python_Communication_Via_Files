@@ -1,0 +1,5 @@
+from lib.argv_in_clip_out_tools import modify_input_and_copy_to_clipboard
+from lib.case_conversion import convert_to_python_class_name
+
+
+modify_input_and_copy_to_clipboard(convert_to_python_class_name)
